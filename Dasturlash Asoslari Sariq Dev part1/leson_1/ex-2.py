@@ -1,0 +1,1 @@
+print("""YAxhsi otga bir qamxhoi,\n Yommn aytsam """)
